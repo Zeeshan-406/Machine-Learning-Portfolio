@@ -6,7 +6,7 @@ I have built multiple machine learning projects using Python.
 - Python
 - Machine Learning
 - Data Analysis
-- Pandas, NumPy
+- Pandas, NumPy, Matplotlib
 - Scikit-learn
 - NLP
 ## Projects
