@@ -1,9 +1,9 @@
 # Twitter Sentiment Analysis
 ## Problem Statement
-This project analyzes tweets to classify sentiment as positive, negative, or neutral.
+This project analyzes tweets to classify sentiment as positive or negative.
 ## Dataset
 - Source: Kaggle
-- Size: 50,000 tweets
+- Size: 1600000 tweets
 ## Tools & Technologies
 - Python
 - Pandas, NumPy
@@ -11,12 +11,11 @@ This project analyzes tweets to classify sentiment as positive, negative, or neu
 - NLTK
 ## Models Used
 - Logistic Regression
-- Naive Bayes
 ## Results
-- Best Accuracy: 87%
+- Best Accuracy: 77.7%
 ## How to Run
-1. Install required libraries
-2. Run Jupyter Notebook
+1. Use Google Colab
+2. Install required libraries
 3. Train the model
 
 ## Future Work
