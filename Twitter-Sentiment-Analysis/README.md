@@ -1,6 +1,4 @@
 # Twitter Sentiment Analysis
-This is my first Machine Learning project.
-# Twitter Sentiment Analysis
 ## Problem Statement
 This project analyzes tweets to classify sentiment as positive, negative, or neutral.
 ## Dataset
